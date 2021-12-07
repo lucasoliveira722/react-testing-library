@@ -4,7 +4,7 @@ import userEvent from '@testing-library/user-event';
 // import Pokedex from '../components/Pokedex';
 import renderWithRouter from '../helpers/renderWithRouter';
 import App from '../App';
-// Código efetuado com ajuda do Jonatas Passos
+// Código efetuado com ajuda do Jonatas Passos, parte por conversa direta e parte por observar o código dele
 
 describe('Testes do componente Pokedex', () => {
   it('Teste se página contém um heading h2 com o texto Encountered pokémons', () => {
