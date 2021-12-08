@@ -71,3 +71,4 @@ describe('Testes do componente Pokemon', () => {
     expect(favoritesIcon).toHaveAttribute('alt', 'Pikachu is marked as favorite');
   });
 });
+// Modificação para commit requisito 6 (Falha da AWS)
